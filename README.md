@@ -246,16 +246,15 @@ Perhitungan pada teknik CIDR (Classless Inter Domain Routing) berdasarkan jumlah
 ● Lalu membuat tree sebagai berikut:
 ![ricky-tree](https://user-images.githubusercontent.com/81076281/143667203-bf0c4931-5de7-4b1a-8705-a8c152243207.png)
 
-● Membuat topologi pada GNS3 sebagai berikut:
-![ricky-topologi](https://user-images.githubusercontent.com/81076281/143666580-86015d35-4f27-47fa-8af8-896f80064d29.PNG)
-
-Sehingga diperoleh tree:
+● Sehingga diperoleh tree:
 ![CIDR-Tree](CIDR-tree.jpg)
 
 dan diperoleh IP-IPnya
 
 ![CIDR-table](CIDR-table.jpg)
 
+● Membuat topologi pada GNS3 sebagai berikut:
+![ricky-topologi](https://user-images.githubusercontent.com/81076281/143666580-86015d35-4f27-47fa-8af8-896f80064d29.PNG)
 ● Membuat konfigurasi IP pada GNS3 sebagai berikut:
 
 **Foosha**
