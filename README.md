@@ -12,11 +12,11 @@ M.Fajri Davyza Chaniago (05111940000180)
 
 ## Topologi Soal
 
-[Topologi Soal](pict%201.jpg)
+![Topologi Soal](pict%201.jpg)
 
 ## 💻 VLSM (Variable Length Subnet Masking)
 
-[VLSM](pict%202.jpg)
+![VLSM](pict%202.jpg)
 
 ### Jumlah Alamat IP
 
