@@ -518,41 +518,41 @@ iface eth0 inet static
 **Foosha**
 
 ```
-route add -net 192.186.144.0 netmask 255.255.255.252 gw 192.186.192.2
-route add -net 192.186.136.0 netmask 255.255.255.128 gw 192.186.192.2
-route add -net 192.186.160.0 netmask 255.255.252.0 gw 192.186.192.2
-route add -net 192.186.128.0 netmask 255.255.248.0 gw 192.186.192.2
-route add -net 192.186.8.0 netmask 255.255.255.252 gw 192.186.32.2
-route add -net 192.186.20.0 netmask 255.255.252.0 gw 192.186.32.2
-route add -net 192.186.18.0 netmask 255.255.255.240 gw 192.186.32.2
-route add -net 192.186.16.0 netmask 255.255.254.0 gw 192.186.32.2
-route add -net 192.186.4.0 netmask 255.255.255.0 gw 192.186.32.2
-route add -net 192.186.0.0 netmask 255.255.252.0 gw 192.186.32.2
+route add -net 192.185.144.0 netmask 255.255.255.252 gw 192.185.192.2
+route add -net 192.185.136.0 netmask 255.255.255.128 gw 192.185.192.2
+route add -net 192.185.160.0 netmask 255.255.252.0 gw 192.185.192.2
+route add -net 192.185.128.0 netmask 255.255.248.0 gw 192.185.192.2
+route add -net 192.185.8.0 netmask 255.255.255.252 gw 192.185.32.2
+route add -net 192.185.20.0 netmask 255.255.252.0 gw 192.185.32.2
+route add -net 192.185.18.0 netmask 255.255.255.240 gw 192.185.32.2
+route add -net 192.185.16.0 netmask 255.255.254.0 gw 192.185.32.2
+route add -net 192.185.4.0 netmask 255.255.255.0 gw 192.185.32.2
+route add -net 192.185.0.0 netmask 255.255.252.0 gw 192.185.32.2
 #routing ke server-FUKUROU via OIMO
-route add -net 192.186.1.4 netmask 255.255.255.252 gw 192.186.32.2
+route add -net 192.185.1.4 netmask 255.255.255.252 gw 192.185.32.2
 ```
 
 **Guanhao**
 
 ```
-route add -net 192.186.4.0 netmask 255.255.255.0 gw 192.186.8.2
-route add -net 192.186.0.0 netmask 255.255.252.0 gw 192.186.8.2
-route add -net 192.186.18.0 netmask 255.255.254.0 gw 192.186.16.2
+route add -net 192.185.4.0 netmask 255.255.255.0 gw 192.185.8.2
+route add -net 192.185.0.0 netmask 255.255.252.0 gw 192.185.8.2
+route add -net 192.185.18.0 netmask 255.255.254.0 gw 192.185.16.2
 #routing ke server-FUKUROU via OIMO
-route add -net 192.168.1.4 netmask 255.255.255.252 gw 192.186.8.2
+route add -net 192.168.1.4 netmask 255.255.255.252 gw 192.185.8.2
 ```
 
 **Water7**
 
 ```
-route add -net 192.186.128.0 netmask 255.255.248.0 gw 192.186.144.2
-route add -net 192.186.136.0 netmask 255.255.255.128 gw 192.186.144.2
+route add -net 192.185.128.0 netmask 255.255.248.0 gw 192.185.144.2
+route add -net 192.185.136.0 netmask 255.255.255.128 gw 192.185.144.2
 ```
 
 **OIMO**
 
 ```
-route add -net 192.186.0.0 netmask 255.255.252.0 gw 192.186.4.2
+route add -net 192.185.0.0 netmask 255.255.252.0 gw 192.185.4.2
 ```
 
 ### Contoh testing
